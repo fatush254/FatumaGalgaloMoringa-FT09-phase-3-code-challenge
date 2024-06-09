@@ -68,5 +68,5 @@ class TestModels(unittest.TestCase):
         self.assertEqual(magazines[0][0], 1)  
         self.assertEqual(magazines[0][1], "Tech Magazine") 
 
-if __name__ == "__main__"
+if __name__ == "__main__":
     unittest.main()
